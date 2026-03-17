@@ -1,5 +1,6 @@
 {
   "name": "sphere-loxodrome-demo",
+  "author": "Dan Visel <dbvisel@gmail.com>",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",

@@ -1,6 +1,6 @@
 # Sphere Loxodrome Demo
 
-This is a minimal Next.js + TypeScript application that renders a 3‑D sphere you can rotate and zoom. A string of text is displayed along a **loxodrome** path from the north pole to the south pole and can be edited in real time.
+This is a minimal Next.js + TypeScript application that renders a 3‑D sphere you can rotate and zoom. A string of text is displayed along a loxodrome path from the north pole to the south pole and can be edited in real time.
 
 ## Features
 
@@ -21,16 +21,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
-
-### Fonts
-
-`@react-three/drei` requires a Three.js font JSON. The project expects the file to be at `public/fonts/helvetiker_regular.typeface.json`. You can download it from the Three.js examples:
-
-```
-https://threejs.org/examples/fonts/helvetiker_regular.typeface.json
-```
-
-Place the file at the indicated path.
 
 ## Project structure
 
